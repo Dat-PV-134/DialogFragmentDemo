@@ -10,4 +10,12 @@
     <string name="detail_fragment">Detail Fragment</string>
     <string name="save">Save</string>
     <string name="cancel">Cancel</string>
+    <string name="show">Show</string>
+    <string name="hide">Hide</string>
+    <string name="menu">Menu</string>
+    <string name="dialog">Dialog</string>
+    <string name="single_dialog">Single Dialog</string>
+    <string name="multi_dialog">Multi Dialog</string>
+    <string name="thong_bao">Thông báo</string>
+    <string name="lua_chon">Lựa chọn:</string>
 </resources>
